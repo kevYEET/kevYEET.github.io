@@ -1,0 +1,28 @@
+title: Minimalistic
+logo: /assets/img/logo.png
+email: kevehazi.beni2000@gmail.com
+description: Junior Cybersec intern at TIGRA Kft. Wannabe Pentester.
+favicon: true
+color-scheme: auto
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/kevyeet
+  #- name: LinkedIn
+    #icon: <i class="fa-brands fa-linkedin"></i>
+    #link: 
+
+navigation:
+  - name: Readme
+    link: ./index.html
+    sublist:
+      - name: Image
+        link: ./index.html#small-image
+  - name: CTF
+    link: ./valamimd.html
