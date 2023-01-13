@@ -1,4 +1,4 @@
-title: Minimalistic
+title: Junior Cybersecurity Intern
 logo: /assets/img/logo.png
 email: kevehazi.beni2000@gmail.com
 description: Junior Cybersec intern at TIGRA Kft. Wannabe Pentester.
@@ -15,9 +15,9 @@ platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/kevyeet
-  #- name: LinkedIn
-    #icon: <i class="fa-brands fa-linkedin"></i>
-    #link: 
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://hu.linkedin.com/in/benj%C3%A1min-keveh%C3%A1zi-718ab7226
 
 navigation:
   - name: Readme
